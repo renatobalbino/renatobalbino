@@ -4,6 +4,9 @@ Hi, I'm Renato! I'm a sotware developer who is passionate about making sotfware 
 
 ---
 
+### Current Position
+Senior Web Developer at [Cruzeiro Esporte Clube](https://www.cruzeiro.com.br)
+
 #### You can find me here
 
 [![Twitter Badge](https://img.shields.io/badge/-@renatobalbino-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/renatobalbino)](https://twitter.com/renatobalbino) [![Linkedin Badge](https://img.shields.io/badge/-renato--balbino-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renatobalbino)](https://www.linkedin.com/in/renatobalbino/) [![Gmail Badge](https://img.shields.io/badge/-programador.renatobalbino@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:programador.renatobalbino@gmail.com)](programador.renatobalbino@gmail.com)
