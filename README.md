@@ -1,6 +1,6 @@
 ### Hello 👋
 
-Hi, I'm Renato! I'm a sotware developer passionate about making sotfware since 2009, creating technology to solve any sort of problems.
+Hi! I'm a sotware developer passionate about making sotfware since 2008, creating technology to solve any sort of problems and making ideas to come true.
 
 ---
 
