@@ -5,7 +5,7 @@ Hi, I'm Renato! I'm a sotware developer passionate about making sotfware since 2
 ---
 
 ### Current Position
-Senior Web Developer at [Cruzeiro Esporte Clube](https://www.cruzeiro.com.br)
+Senior Backend PHP Developer at [Westwing](https://www.westwing.com.br)
 
 #### You can find me here
 
@@ -15,12 +15,11 @@ Senior Web Developer at [Cruzeiro Esporte Clube](https://www.cruzeiro.com.br)
 
 Technologies I like to work with
 
-- PHP 7
-- Laravel 5+
+- PHP 7+
+- Laravel 7+
 - VueJS
 - React
 - MySQL
-- SQLServer
 - AWS SQS
 - AWS Lambda
 - Node
