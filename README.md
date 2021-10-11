@@ -5,7 +5,8 @@ Hi! I'm a sotware developer passionate about making sotfware since 2008, creatin
 ---
 
 ### Current Position
-Senior Backend PHP Developer at [Westwing](https://www.westwing.com.br)
+- Sr Software Engineer at [Westwing](https://www.westwing.com.br)
+- Owner at RBSYS Development
 
 #### You can find me here
 
