@@ -6,7 +6,6 @@ Hi! I'm a sotware developer passionate about making sotfware since 2008, creatin
 
 ### Current Position
 - Sr Software Engineer at [SysMap Solutions](https://sysmap.com.br/)
-- Owner at RBSYS Development
 
 #### You can find me here
 
@@ -16,7 +15,7 @@ Hi! I'm a sotware developer passionate about making sotfware since 2008, creatin
 
 Technologies I like to work with
 
-- PHP 8
+- PHP 7/8
 - Laravel
 - VueJS
 - React
@@ -25,4 +24,5 @@ Technologies I like to work with
 - AWS Lambda
 - Node
 - Redis
+- RabbitMQ
 - Docker
