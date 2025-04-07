@@ -5,7 +5,7 @@ Hi! I'm a sotware developer passionate about making sotfware since 2008, creatin
 ---
 
 ### Current Position
-- Sr Software Engineer at [SysMap Solutions](https://sysmap.com.br/)
+- Tech Lead & SR Software Developer at [SysMap Solutions](https://sysmap.com.br/) @ Pluxee Group
 
 #### You can find me here
 
@@ -26,3 +26,6 @@ Technologies I like to work with
 - Redis
 - RabbitMQ
 - Docker
+- CI/CD
+- SOLID
+- Clean Code
