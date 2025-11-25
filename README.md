@@ -5,11 +5,7 @@ Hi! I'm a sotware developer passionate about making sotfware since 2008, creatin
 ---
 
 ### Current Position
-- Tech Lead & SR Software Developer at [SysMap Solutions](https://sysmap.com.br/) @ Pluxee Group
-
-#### You can find me here
-
-[![Twitter Badge](https://img.shields.io/badge/-@renatobalbino-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/renatobalbino)](https://twitter.com/renatobalbino) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renatobalbino)](https://www.linkedin.com/in/renatobalbino/) [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:programador.renatobalbino@gmail.com)](programador.renatobalbino@gmail.com)
+- Tech Leader & SR Software Developer at [SysMap Solutions](https://sysmap.com.br/) @ [Pluxee Group](https://www.pluxee.com.br/)
 
 ---
 
